@@ -1,3 +1,4 @@
+
 # Learning Angular 2
 **Please note:** The book covers up to Angular 2 Release Candidate 1. **A full upgrade to RC.2 and an UPDATES page with notes and corrections over the book contents will be released by the end of June. Stay on tune!**.
 
@@ -58,3 +59,7 @@ You may reach out Pablo Deeleman at:
 Hope you will enjoy it as much as I enjoyed writing it for you.
 
 *Pablo Deeleman -.*
+
+# Learning-angular2
+Test and learn angular2
+
